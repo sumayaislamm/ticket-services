@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "User unable to login with correct credentials.",
+    "customer": "Rahim Uddin",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2026-03-01"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failed",
+    "description": "Payment not going through on checkout.",
+    "customer": "Sumi Ahmed",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2026-03-02"
+  },
+  {
+    "id": 3,
+    "title": "Account Locked",
+    "description": "User account locked after multiple failed attempts.",
+    "customer": "Tanvir Khan",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2026-03-03"
+  },
+  {
+    "id": 4,
+    "title": "Order Not Delivered",
+    "description": "Customer did not receive order even after 7 days.",
+    "customer": "Mahi Rahman",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2026-03-04"
+  },
+  {
+    "id": 5,
+    "title": "Refund Request",
+    "description": "Customer wants a refund for canceled order.",
+    "customer": "Joya Akter",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2026-03-05"
+  },
+  {
+    "id": 6,
+    "title": "Password Reset",
+    "description": "User forgot password and needs reset link.",
+    "customer": "Rafiq Islam",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2026-03-06"
+  },
+  {
+    "id": 7,
+    "title": "App Crash",
+    "description": "Mobile app crashes on login.",
+    "customer": "Nabila Hossain",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2026-03-07"
+  },
+  {
+    "id": 8,
+    "title": "Incorrect Billing",
+    "description": "User charged twice for one order.",
+    "customer": "Tanima Chowdhury",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2026-03-08"
+  },
+  {
+    "id": 9,
+    "title": "Feature Request",
+    "description": "User requests dark mode in the app.",
+    "customer": "Sabbir Rahman",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2026-03-09"
+  },
+  {
+    "id": 10,
+    "title": "Bug in Checkout",
+    "description": "Discount code not applying at checkout.",
+    "customer": "Rana Kabir",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2026-03-10"
+  },
+  {
+    "id": 11,
+    "title": "Shipping Address Error",
+    "description": "Order shipped to wrong address.",
+    "customer": "Nusrat Jahan",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2026-03-11"
+  },
+  {
+    "id": 12,
+    "title": "Email Not Received",
+    "description": "User did not receive confirmation email.",
+    "customer": "Faisal Ahmed",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2026-03-12"
+  },
+  {
+    "id": 13,
+    "title": "App Slow",
+    "description": "Mobile app runs very slow on Android devices.",
+    "customer": "Shabnur Chowdhury",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2026-03-13"
+  },
+  {
+    "id": 14,
+    "title": "Order Cancellation",
+    "description": "Customer wants to cancel order after placing it.",
+    "customer": "Rasheda Akter",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2026-03-14"
+  },
+  {
+    "id": 15,
+    "title": "Wrong Product Delivered",
+    "description": "Customer received wrong product variant.",
+    "customer": "Mamun Hossain",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2026-03-15"
+  },
+  {
+    "id": 16,
+    "title": "Feedback Not Saved",
+    "description": "User feedback not being saved in profile.",
+    "customer": "Tania Siddique",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2026-03-16"
+  },
+  {
+    "id": 17,
+    "title": "Notification Bug",
+    "description": "Notifications not appearing on app home screen.",
+    "customer": "Raihan Chowdhury",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2026-03-17"
+  },
+  {
+    "id": 18,
+    "title": "Cart Not Updating",
+    "description": "Cart quantity does not update after adding items.",
+    "customer": "Mim Rahman",
+    "priority": "Medium",
+    "status": "open",
+    "createdAt": "2026-03-18"
+  },
+  {
+    "id": 19,
+    "title": "Profile Picture Upload",
+    "description": "Cannot upload profile picture in settings.",
+    "customer": "Shimul Karim",
+    "priority": "Low",
+    "status": "open",
+    "createdAt": "2026-03-19"
+  },
+  {
+    "id": 20,
+    "title": "App Logout Issue",
+    "description": "App logs out user automatically after 5 minutes.",
+    "customer": "Sumaya Islam",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2026-03-20"
+  }
+]
