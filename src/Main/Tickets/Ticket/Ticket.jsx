@@ -2,23 +2,16 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCalendarAlt } from '@fortawesome/free-solid-svg-icons';
 
 
-export default function Ticket({ ticket }) {
+export default function Ticket({ ticket , handleProgress }) {
     const { id, title, description, customer, priority, status, createdAt, code } = ticket;
 
-    // "id": 1,
-    // "title": "Login Issue",
-    // "description": "User unable to login with correct credentials.",
-    // "customer": "Rahim Uddin",
-    // "priority": "High",
-    // "status": "open",
-    // "createdAt": "2026-03-01"
     return (
         <>
-            {/* <div className="border rounded-lg p-4 shadow-md">
-                <h2 className="text-lg font-semibold mb-2">Ticket Length: {ticket.length}</h2>
-            </div> */}
+          
 
-            <div className="card w-96 bg-base-100 card-xs shadow-sm">
+            <div 
+            onClick={() => handleProgress(ticket)}
+            className="card w-96 bg-base-100 card-xs shadow-sm cursor-pointer hover:shadow-lg">
                 <div className="card-body">
                     <div className="flex justify-between">
                         <h2 className="card-title">{title}</h2>

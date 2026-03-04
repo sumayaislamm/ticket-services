@@ -1,7 +1,7 @@
 import ticketsData from "../../data/tickets.json";
 import Ticket from "./Ticket/Ticket";
 
-export default function Tickets() {
+export default function Tickets({ handleProgress }) {
 
    return (
       <>
@@ -12,6 +12,7 @@ export default function Tickets() {
                <Ticket
                   key={ticket.id}
                   ticket={ticket}
+                  handleProgress={handleProgress}
                />
             ))}
          </div>
