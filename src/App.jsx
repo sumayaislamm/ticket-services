@@ -2,6 +2,8 @@ import './App.css'
 import { useState, useEffect } from 'react';
 import Navbar from './Navbar/Navbar'
 import Banner from './Banner/Banner';
+import Footer from './Footer/Footer';
+import Main from './Main/Main';
 
 function App() {
   const [theme, setTheme] = useState('light'); // default light
@@ -18,7 +20,9 @@ function App() {
     <>
       
       <Navbar />
-      <Banner></Banner>
+      <Banner/>
+      <Main/>
+      <Footer/>
 
     </>
   );

@@ -20,7 +20,10 @@ export default function Navbar() {
                             <li><a>Contact</a></li>
                         </ul>
                     </div>
-                    <a className="btn btn-ghost text-xl">Ticket Services</a>
+                    <a className="btn text-4xl font-bold 
+               bg-gradient-to-r 
+               from-green-400 via-blue-500 to-purple-600 
+               bg-clip-text text-transparent btn-ghost text-xl">Ticket Services</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
@@ -33,7 +36,7 @@ export default function Navbar() {
                     </ul>
                 </div>
                 <div className="navbar-end bg-base-100">
-                    <a className="btn"><span className="text-black text-2xl font-bold">+</span><span>New Tickets</span></a>
+                    <a className="btn bg-gradient-to-r from-green-400 via-blue-500 to-purple-600"><span className="text-black text-2xl font-bold">+</span><span>New Tickets</span></a>
                 </div>
             </div>
         </nav>
