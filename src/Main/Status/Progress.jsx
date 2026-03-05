@@ -1,7 +1,7 @@
 export default function Progress({ tickets, handleComplete }) {
   return (
     <div>
-      <h2 className="text-xl font-bold">In Progress ({tickets.length})</h2>
+      <h2 className="text-xl font-bold">Task Status ({tickets.length})</h2>
       {tickets.length === 0 && <p>Select a ticket to add to Task Status</p>}
 
       <div className="flex flex-col gap-4 mt-4">

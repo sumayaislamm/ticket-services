@@ -16,7 +16,7 @@
     "description": "Payment not going through on checkout.",
     "customer": "Sumi Ahmed",
     "priority": "Medium",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2026-03-02"
   },
   {
@@ -26,7 +26,7 @@
     "description": "User account locked after multiple failed attempts.",
     "customer": "Tanvir Khan",
     "priority": "High",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2026-03-03"
   },
   {
@@ -46,7 +46,7 @@
     "description": "Customer wants a refund for canceled order.",
     "customer": "Joya Akter",
     "priority": "Medium",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2026-03-05"
   },
   {
@@ -56,7 +56,7 @@
     "description": "User forgot password and needs reset link.",
     "customer": "Rafiq Islam",
     "priority": "Low",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2026-03-06"
   },
   {
@@ -76,7 +76,7 @@
     "description": "User charged twice for one order.",
     "customer": "Tanima Chowdhury",
     "priority": "Medium",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2026-03-08"
   },
   {
@@ -96,7 +96,7 @@
     "description": "Discount code not applying at checkout.",
     "customer": "Rana Kabir",
     "priority": "Medium",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2026-03-10"
   },
   {
@@ -116,7 +116,7 @@
     "description": "User did not receive confirmation email.",
     "customer": "Faisal Ahmed",
     "priority": "Low",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2026-03-12"
   },
   {
@@ -126,7 +126,7 @@
     "description": "Mobile app runs very slow on Android devices.",
     "customer": "Shabnur Chowdhury",
     "priority": "Medium",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2026-03-13"
   },
   {
@@ -146,7 +146,7 @@
     "description": "Customer received wrong product variant.",
     "customer": "Mamun Hossain",
     "priority": "High",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2026-03-15"
   },
   {
@@ -166,7 +166,7 @@
     "description": "Notifications not appearing on app home screen.",
     "customer": "Raihan Chowdhury",
     "priority": "Medium",
-    "status": "Resolved",
+    "status": "Open",
     "createdAt": "2026-03-17"
   },
   {
@@ -186,7 +186,7 @@
     "description": "Cannot upload profile picture in settings.",
     "customer": "Shimul Karim",
     "priority": "Low",
-    "status": "In Progress",
+    "status": "Open",
     "createdAt": "2026-03-19"
   },
   {
