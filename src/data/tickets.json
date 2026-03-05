@@ -148,55 +148,5 @@
     "priority": "High",
     "status": "Open",
     "createdAt": "2026-03-15"
-  },
-  {
-    "id": 16,
-    "code": "#TKT016",
-    "title": "Feedback Not Saved",
-    "description": "User feedback not being saved in profile.",
-    "customer": "Tania Siddique",
-    "priority": "Low",
-    "status": "Open",
-    "createdAt": "2026-03-16"
-  },
-  {
-    "id": 17,
-    "code": "#TKT017",
-    "title": "Notification Bug",
-    "description": "Notifications not appearing on app home screen.",
-    "customer": "Raihan Chowdhury",
-    "priority": "Medium",
-    "status": "Open",
-    "createdAt": "2026-03-17"
-  },
-  {
-    "id": 18,
-    "code": "#TKT018",
-    "title": "Cart Not Updating",
-    "description": "Cart quantity does not update after adding items.",
-    "customer": "Mim Rahman",
-    "priority": "Medium",
-    "status": "Open",
-    "createdAt": "2026-03-18"
-  },
-  {
-    "id": 19,
-    "code": "#TKT019",
-    "title": "Profile Picture Upload",
-    "description": "Cannot upload profile picture in settings.",
-    "customer": "Shimul Karim",
-    "priority": "Low",
-    "status": "Open",
-    "createdAt": "2026-03-19"
-  },
-  {
-    "id": 20,
-    "code": "#TKT020",
-    "title": "App Logout Issue",
-    "description": "App logs out user automatically after 5 minutes.",
-    "customer": "Sumaya Islam",
-    "priority": "High",
-    "status": "Open",
-    "createdAt": "2026-03-20"
   }
 ]
