@@ -5,6 +5,7 @@ export default function Navbar() {
         <nav>
             <div className="navbar bg-base-100 shadow-sm">
                 <div className="navbar-start">
+                    
                     <div className="dropdown">
                         <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
                             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"> <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /> </svg>
@@ -24,8 +25,10 @@ export default function Navbar() {
                bg-gradient-to-r 
                from-green-400 via-blue-500 to-purple-600 
                bg-clip-text text-transparent btn-ghost text-xl">Ticket Services</a>
+               <a className="btn ml-26 bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 lg:hidden md:hidden"><span className="text-black text-2xl font-bold">+</span><span>New Tickets</span></a>
                 </div>
-                <div className="navbar-center hidden lg:flex">
+       
+                <div className="navbar-end hidden md:flex lg:flex bg-base-100">
                     <ul className="menu menu-horizontal px-1">
                         <li><a>Home</a></li>
                         <li><a>FAQ</a></li>
@@ -33,10 +36,9 @@ export default function Navbar() {
                         <li><a>Blog</a></li>
                         <li><a>Download</a></li>
                         <li><a>Contact</a></li>
+                        <li><a className="btn bg-gradient-to-r from-green-400 via-blue-500 to-purple-600"><span className="text-black text-2xl font-bold">+</span><span>New Tickets</span></a></li>
                     </ul>
-                </div>
-                <div className="navbar-end bg-base-100">
-                    <a className="btn bg-gradient-to-r from-green-400 via-blue-500 to-purple-600"><span className="text-black text-2xl font-bold">+</span><span>New Tickets</span></a>
+
                 </div>
             </div>
         </nav>

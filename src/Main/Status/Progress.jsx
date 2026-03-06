@@ -1,4 +1,4 @@
-import Img from '../../assets';
+
 
 export default function Progress({ tickets, handleComplete }) {
   return (
