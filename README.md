@@ -27,4 +27,6 @@ it returns an array with exactly two values:
 
 
 5. How is event handling done in React?
+
+
 #Answer: Event handling done in React by CamelCase Event Names, Passing Functions as Handlers, Event Object, Binding this (for Class Components), Common Events. 
