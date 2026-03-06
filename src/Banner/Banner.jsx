@@ -5,12 +5,12 @@ export default function Banner({ progressCount, resolvedCount }) {
       <div className="relative card text-center bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 p-6 rounded-lg shadow-lg w-96 overflow-hidden">
 
         <img
-          src="/Vector1.png"
+          src="/vector1.png"
           className="absolute left-0 top-0 h-full w-1/3 object-cover"
         />
 
         <img
-          src="/Vector1.png"
+          src="/vector1.png"
           className="absolute right-0 top-0 h-full w-1/3 object-cover scale-x-[-1]"
         />
         <div className="card-body">
